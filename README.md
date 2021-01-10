@@ -14,3 +14,9 @@
   - Print optimal value of lambda and alpha found with CV
   - Print the optimal coefficient vector 
   - Compare parameters found with elastic net to those with alpha = 1 (ridge) and alpha = 0 (lasso)
+* [Assignment 3](https://github.com/MichaelTeti/CAP5625/blob/main/CAP5625_Assignment3_LogisticRidge.ipynb)
+  - Implement logistic regression with a ridge penalty via batch gradient descent to predict ancestry of individuals given top 10 principal component coefficients representing their genome. 
+  - Plot coefficient values vs. ridge tuning parameter lambda for each ancestry class. 
+  - Plot classification error over the values of the ridge parameter lambda. 
+  - Print the optimal value of lambda found with cross validation. 
+  - Predict ancestry of individuals in the test set and discuss the model predictions for African American vs. Mexican individuals. 
