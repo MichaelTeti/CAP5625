@@ -20,3 +20,5 @@
   - Plot classification error over the values of the ridge parameter lambda. 
   - Print the optimal value of lambda found with cross validation. 
   - Predict ancestry of individuals in the test set and discuss the model predictions for African American vs. Mexican individuals. 
+* [Final Report](https://github.com/MichaelTeti/CAP5625/blob/main/CAP5625_FinalReport.pdf)
+  - Provide a detailed description of a model of your choice and compare to models discussed in class.
